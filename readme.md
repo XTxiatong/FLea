@@ -189,7 +189,7 @@ For example, the model trained for HAR data, using K=150, partition  Dir(0.1) ca
 ## Privacy analysis
 
 
-Training and testing the data reconstruction attack: `python test_test_reconstraction.py`
+Training and testing the data reconstruction attack: `python test_reconstraction.py`
 
 ![recons_example](recons_example.png)
 
