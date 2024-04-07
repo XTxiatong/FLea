@@ -25,24 +25,24 @@ We mainly use *torch*, *torchvision*, *torchaudio*, *numpy*, *sklearn*,*pandas*
 ## Code  structure
 ```
 ├── FLea
-│   ├── data                                           # data path
+│   ├── data                                          # data path
 │   │   ├── CIFAR10
 │   │   ├── UrbanSound8K
 │   │   ├── UCI_HAR
-│   ├── Utils                                          # function path
-│   │   ├── data_utils                                 # data partition 
+│   ├── Utils                                         # function path
+│   │   ├── data_utils                                # data partition 
 │   │   ├── model_utils
 │   │   ├── argparse
 │   │   ├── functional
-│   ├── FLAlgorithms                          # main algorithm path
-│   │   ├── servers                                  # code for server function
-│   │   ├── users                                     # code for client function
-│   │   ├── trainmodel                           # model architecture
+│   ├── FLAlgorithms                                  # main algorithm path
+│   │   ├── servers                                     # code for server function
+│   │   ├── users                                       # code for client function
+│   │   ├── trainmodel                                  # model architecture
 │   ├── run                                           # script for running code
 │   │   ├── Image
 │   │   ├── Audio
 │   │   ├── HAR
-│   ├── models                                    # saved models and logs
+│   ├── models                                        # saved models and logs
 │   │   ├── saved
 │   │   ├── logs
 ```
