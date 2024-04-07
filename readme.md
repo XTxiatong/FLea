@@ -64,7 +64,7 @@ We use three public datasets, put in `data` path.
 
 An example of the CIFAR-10 data distribution is visualized below. The training data for 10 classes are distributed across 100 clients, showcasing a quantity-based skew, with each client having only 3 classes of data. Each column represents one client, and the number of samples is denoted by color.
 
-![cifar10_q3](F:\FL\FLea\cifar10_q3.png)
+![cifar10_q3](cifar10_q3.png)
 
 
 
@@ -191,5 +191,5 @@ For example, the model trained for HAR data, using K=150, partition  Dir(0.1) ca
 
 Training and testing the data reconstruction attack: `python test_test_reconstraction.py`
 
-![recons_example](F:\FL\FLea\recons_example.png)
+![recons_example](recons_example.png)
 
