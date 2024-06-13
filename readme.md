@@ -2,9 +2,9 @@
 
 This repository includes the code to reproduce our experiments in the submission entitled
 
-*FLea: Addressing data scarcity and label skew in federated learning via privacy-preserving feature augmentation*
+*FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-Preserving Feature Augmentation*
 
-submitted to KDD 2024  Research Track
+accepted by KDD 2024  Research Track
 
 
 
